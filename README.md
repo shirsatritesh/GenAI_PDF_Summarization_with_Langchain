@@ -20,6 +20,7 @@ This PDF Summarizer application is a Streamlit-based web app that leverages the 
 - Python 3.8 or higher
 - Streamlit
 - LangChain
+- langchain_community
 - OpenAI
 - PyPDFLoader
 - dotenv
